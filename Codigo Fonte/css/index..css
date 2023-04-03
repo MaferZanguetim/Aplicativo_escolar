@@ -1,0 +1,163 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Chivo+Mono:wght@200;400;600;700&display=swap');
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+} 
+
+img{
+    margin:10px;
+    margin-left: 120px;
+}
+
+h4{
+    margin-top: 70px;
+}
+
+
+.link{
+    color: #ffb0ff;
+   text-decoration: none;
+   margin-right: 30px;
+   
+}
+
+.container {
+    width: 100%;
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+  }
+
+.carding {
+    width: 500px;
+    height: 700px;
+    margin: 25px;
+    background-color: #00007cd8;
+    border-radius: 20px;
+    overflow: hidden;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.7);
+    transition: 0.3s;
+}
+
+.card-header {
+    width: 100%;
+    height: 200px;
+    overflow: hidden;
+  }
+  
+  .card-img {
+    min-width: 100%;
+    width: auto;
+    height: 100%;
+  }
+
+.cards-body {
+    height: 170px;
+    padding: 15px;
+    text-align: center;
+    font-family: 'Chivo Mono', monospace;
+  }
+
+.cards-body h4{
+    margin-top: 60px;
+}
+
+  .product-title {
+    font-size: 45px;
+    margin: 20px 0;
+    color: #fff;
+  }
+  
+  .product-text {
+    font-size: 20px;
+    width: 300px;
+    margin: 0 auto;
+    color: #fff;
+  }
+
+  .card-footer {
+    margin-top: 230px;
+    text-align: center;
+    background-color: #000;
+  }
+  
+  .card-footer a {
+    color: #fff;
+    display: block;
+    padding: 16px;
+    text-decoration: none;
+    font-size:25px;
+    font-family: 'Chivo Mono', monospace;
+    font-weight: 600;
+  }
+
+  *{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+} 
+
+/*Tags*/
+a{
+   color: #ffb0ff;
+   text-decoration: none;
+   margin-right: 30px;  
+}
+main{
+    margin-top: 47px;
+}
+body{
+    background-image: url(/img/back1.jpg);
+    background-position: center;
+    background-size: 100vw 100vh;
+    background-repeat: no-repeat;
+}
+
+.title-kidsatt{
+    width: 98vw;
+    display: flex;  
+    justify-content: center;
+    align-items: center;
+}
+.middle{
+   margin-top: 30vh;
+}
+
+.father-list{
+    width: 94vw;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.father{
+    width: 94vw;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.list-item{
+    display: block;
+    margin: 5px;
+}
+
+.father-index{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.cards{
+    display: flex;
+    justify-content:space-around;
+    align-items: center;
+    flex-direction: column;
+    color: white;
+    background-color: rgba(51, 11, 197, 0.76);
+}
