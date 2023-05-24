@@ -1,0 +1,1 @@
+export{default as StudentDatas} from './StudentDatas'

@@ -1,9 +1,9 @@
 
 
-const Login = () =>{
+const Projects = () =>{
     return(
         <div>Hello World</div>
     )
 }
 
-export default Login
+export default Projects

@@ -1,9 +1,9 @@
 
 
-const Login = () =>{
+const Messages = () =>{
     return(
         <div>Hello World</div>
     )
 }
 
-export default Login
+export default Messages
