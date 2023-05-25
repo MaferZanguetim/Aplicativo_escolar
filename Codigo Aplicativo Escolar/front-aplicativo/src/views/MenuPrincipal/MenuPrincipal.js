@@ -1,8 +1,13 @@
-
+import { Header, Footer} from "../../components";
 
 const MenuPrincipal = () =>{
     return(
-        <div>Hello World</div>
+            <div>
+                <Header/>
+                
+                <Footer name='Grupao'/>
+            </div>
+            
     )
 }
 

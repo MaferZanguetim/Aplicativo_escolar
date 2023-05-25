@@ -8,10 +8,10 @@ const Routes = () =>{
         <BrowserRouter>
             <Switch>
                 <Route path = "/" element ={<Login/>} />
-                <Route path = "/class" element ={<MenuPrincipal/>} />
+                <Route path = "/menu-principal" element ={<MenuPrincipal/>} />
                 <Route path = "/class" element ={<Class/>} />
                 <Route path = "/message" element ={<Messages/>} />
-                <Route path = "/project" element ={<Projects/>} />
+                <Route path = "/projects" element ={<Projects/>} />
                 <Route path = "/student-data" element ={<StudentDatas/>} />
             </Switch>
         </BrowserRouter>

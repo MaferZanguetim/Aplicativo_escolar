@@ -1,8 +1,13 @@
 import * as React from 'react';
+import helpers from '../../helpers';
 
-const Footer = () =>{
+const Footer = ({name}) =>{
     return(
-        <div>Hello World</div>
+        <div>
+            <button onClick={() =>helpers.Talk(name)}>Fale Conosco</button>
+            <h2>Equipe</h2>
+            <h2>Sugestão</h2>
+        </div>
     )
 }
 

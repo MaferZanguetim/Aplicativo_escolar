@@ -1,8 +1,17 @@
-
+import { Header, Footer, EditButton} from "../../components";
 
 const Messages = () =>{
     return(
-        <div>Hello World</div>
+        <div>
+            <Header/>
+            <div>
+                <div>
+                    <EditButton/>
+                </div>
+            </div>
+
+            <Footer name='Grupao'/>
+        </div>
     )
 }
 

@@ -1,8 +1,12 @@
-
+import { Header, Footer} from "../../components";
 
 const StudentDatas = () =>{
     return(
-        <div>Hello World</div>
+        <div>
+            <Header/>
+                
+            <Footer name='Grupao'/>
+        </div>
     )
 }
 
