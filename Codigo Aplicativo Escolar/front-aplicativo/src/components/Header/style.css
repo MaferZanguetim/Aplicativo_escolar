@@ -1,0 +1,38 @@
+.nav{
+    display: flex;
+    flex-direction: column;
+}
+
+.nav-up{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    background-color: #0703B6;
+    color: black;
+
+}
+
+.nav-down{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+.link{
+    color: black;
+    font-size: 24px;
+    font-weight: bold;
+    margin-top: 20px;
+}
+.link:hover{
+    color: rgb(255, 0, 0);
+}
+
+.blue{
+    background-color: blue;
+}
+
+a, button{
+    text-decoration: none;
+}
+

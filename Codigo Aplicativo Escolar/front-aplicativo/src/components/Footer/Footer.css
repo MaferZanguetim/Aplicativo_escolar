@@ -1,0 +1,18 @@
+.footer{
+    background-color: #0703B6;
+    display:flex;
+    justify-content: space-around;
+}
+
+.button{
+    background-color: #0703B6;
+    border: none;
+    font-size: 20px;
+    font-weight: bold;
+    border-radius: 50px;
+}
+
+.button:hover{
+    color: blue;
+    background-color: white;
+}

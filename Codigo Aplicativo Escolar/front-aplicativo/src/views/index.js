@@ -1,6 +1,6 @@
 export {Class} from './Class'
-export {Login} from './Login'
 export {MenuPrincipal} from './MenuPrincipal'
 export {Messages} from './Messages'
 export {Projects} from './Projects'
 export {StudentDatas} from './StudentDatas'
+export {Login} from './Login'

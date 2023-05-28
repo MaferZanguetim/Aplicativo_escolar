@@ -1,5 +1,5 @@
 import {Routes as Switch, Route, BrowserRouter} from 'react-router-dom'
-import { Class,Login, MenuPrincipal, Messages, Projects, StudentDatas } from "./views";
+import { Class, Login, MenuPrincipal, Messages, Projects, StudentDatas } from "./views";
 
 
 
@@ -12,7 +12,7 @@ const Routes = () =>{
                 <Route path = "/class" element ={<Class/>} />
                 <Route path = "/message" element ={<Messages/>} />
                 <Route path = "/projects" element ={<Projects/>} />
-                <Route path = "/student-data" element ={<StudentDatas/>} />
+                <Route path = "/student-datas" element ={<StudentDatas/>} />
             </Switch>
         </BrowserRouter>
     )

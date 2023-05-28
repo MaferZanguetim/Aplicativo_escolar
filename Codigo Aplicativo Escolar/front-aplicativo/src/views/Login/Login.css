@@ -1,0 +1,86 @@
+/* 
+
+const Style = () => {
+        
+}
+
+export default Style */
+
+.fundoLogin{
+    background-image: url(../../image/pexels-nick-collins-1292998\ 1.png);
+    width: 99vw;
+    height: 99vh;
+    position: relative;
+}
+
+.centro{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin: -300px 0 0 -500px;
+    text-align: center;
+    width: 1000px;
+    height: 600px;
+    background: #fff;
+}
+
+.imagemLogin{
+    background-image: url(../../image/study\ 1.png);
+    background-repeat: no-repeat;
+    background-size: 400px 400px;
+    width: 400px;
+    height: 600px;
+    margin: 100px 50px 0 50px;
+    float: left;
+}
+
+.riscoLogin{
+    height: 600px;
+    float: left;
+    border: 1px solid black;
+}
+
+.login{
+    width: 500px;
+    height: 200px;
+    position: absolute;
+    left: 50%;
+    top: 5%;
+    float: left;
+}
+
+.input-login{
+    height: 30px;
+    width: 270px;
+    font-size: 1.2em;
+    padding-left: 10px;
+    border-radius: 10px;
+    border: 2px solid #000;
+}
+
+.title-login{
+    margin-bottom: 10px;
+}
+
+.botao-login{
+    background: #4169E1;
+    border-radius: 25px;
+    margin: 0 auto;
+    margin-top: 15px;
+    width: 120px;
+    height: 50px;
+    text-transform: uppercase;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-shadow: none;
+}
+
+.btn-login{
+    text-decoration: none;
+    color: #fff;
+}
+
+.btn-login:hover{
+    color: #000;
+}
