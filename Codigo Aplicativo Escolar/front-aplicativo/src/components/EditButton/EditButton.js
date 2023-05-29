@@ -1,8 +1,8 @@
-
+import './style.css'
 
 const EditButton = () => {
     return(
-        <button>Editar</button>
+        <button className='button-edit'>Editar</button>
     )
 }
 
