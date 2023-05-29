@@ -1,0 +1,27 @@
+.quadrado{
+    background-color: rgba(184, 205, 252, 0.623);
+    width: 58%;
+    height: 58vh;
+    position: absolute;
+    left: 20vw;
+    top: 23%;
+}
+
+.mae{
+    width: 500px;
+    margin-left: 17vw;
+}
+
+.journal-title{
+    font: 50px;
+    margin-left: 20vw;
+}
+
+.jornal-conteiner {
+    font-size: 20px;
+    margin-left: 5vw;
+}
+
+.jornal-conteiner-ass{
+    margin-left: 45vw;
+}

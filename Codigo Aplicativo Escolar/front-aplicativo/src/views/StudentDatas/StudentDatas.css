@@ -1,0 +1,13 @@
+.data-title{
+    margin-left: 24vw;
+}
+
+.information{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.table-info{
+ margin: 3vh;
+}
