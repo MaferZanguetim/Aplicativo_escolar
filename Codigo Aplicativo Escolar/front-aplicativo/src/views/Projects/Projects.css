@@ -1,0 +1,23 @@
+.card-pascoa{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: -30px;
+    margin-left: 20px;
+    background-image: url(../../image/Pascoa.webp);
+    background-size: 170%;
+    width: 200px;
+    height: 220px;
+}
+
+.card-title{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    color: rgb(0, 0, 0);
+}
+
+.card-title:hover{
+    color: #9b014e;
+}

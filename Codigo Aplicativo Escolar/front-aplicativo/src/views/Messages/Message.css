@@ -1,0 +1,39 @@
+.center{
+    margin-left: 350px;
+}
+
+.card{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: -30px;
+    margin-left: 20px;
+    background-color: rgba(14, 14, 141, 0.726);
+    width: 200px;
+    height: 220px;
+}
+
+.data{
+    margin-top: -20px;
+    color: rgb(184, 177, 177);
+}
+
+.conteudo{
+    margin-top: -0.3px;
+    color: rgb(239, 246, 247);
+}
+
+.menor{
+    background-color: #ADFAFF;
+    font-size: 11px;
+    text-decoration: none;
+    border-radius: 25px;
+    margin: 0 auto;
+    margin-top: 15px;
+    width: 75px;
+    height: 4vh;
+    text-transform: uppercase;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

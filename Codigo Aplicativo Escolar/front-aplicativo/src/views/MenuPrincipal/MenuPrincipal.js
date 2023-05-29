@@ -6,7 +6,7 @@ const MenuPrincipal = () =>{
     return(
             <div>
                 <Header/>
-                    <div>
+                    <div className="back-web">
 
                     </div>
                 <Footer name='Grupao'/>

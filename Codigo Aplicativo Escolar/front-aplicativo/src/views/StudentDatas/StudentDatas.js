@@ -4,7 +4,9 @@ const StudentDatas = () =>{
     return(
         <div>
             <Header/>
+            <div className="back-web">
                 
+            </div> 
             <Footer name='Grupao'/>
         </div>
     )
