@@ -1,6 +1,7 @@
 {
   "name": "front-aplicativo",
   "version": "0.1.0",
+  "homepage": "./Login",
   "private": true,
   "dependencies": {
     "@mui/material": "^5.13.2",
